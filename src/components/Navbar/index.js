@@ -6,10 +6,10 @@ class Navbar extends Component {
     return (
       <nav className="navbar navbar-dark bg-dark">
          <ul>
-          <li className="nav-item">Test Your Memory</li>
+          <li className="nav-item">Test Your Memory: Don't Click On The Same Team Twice!</li>
           </ul>
           <ul>
-          <li className="nav-item my-2 my-sm-0">Score: {this.props.score}</li>
+          <li className="nav-item">Score: {this.props.score}</li>
         </ul>
       </nav>
     );

@@ -68,10 +68,10 @@ class App extends Component {
   render() {
     return (
       <div>
+        <Title></Title>
         <Navbar 
           score={this.state.score}
         />
-        <Title></Title>
         <Wrapper>
           {this.state.teams.map(team => (
             <TeamCard
