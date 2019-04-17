@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e1eb1addfad37848ade56a3d06384833",
-    "url": "/nhl-clickygame/static/media/lasvegas.e1eb1add.jpg"
+    "revision": "44f8a78e021c43226e6bf9b4b40efb22",
+    "url": "/nhl-clickygame/static/media/colorado.44f8a78e.jpg"
   },
   {
-    "revision": "ac7e02951453b6795c01",
-    "url": "/nhl-clickygame/static/css/main.e06668c4.chunk.css"
+    "revision": "fcd410d007182397e03c",
+    "url": "/nhl-clickygame/static/css/main.b75ec68a.chunk.css"
   },
   {
     "revision": "a0c603d1e2a304d6cfa5",
     "url": "/nhl-clickygame/static/js/runtime~main.bbb28ea1.js"
   },
   {
-    "revision": "58f496bc1ce27350f0eb",
-    "url": "/nhl-clickygame/static/js/2.98dcc9dd.chunk.js"
+    "revision": "49fe2bb6337391b45054",
+    "url": "/nhl-clickygame/static/js/2.6e39e941.chunk.js"
+  },
+  {
+    "revision": "7d8a5c20f117a684b7d2f788b4b8a918",
+    "url": "/nhl-clickygame/static/media/nhlHeader.7d8a5c20.jpg"
   },
   {
     "revision": "c1f1f201731a098fd885f7f3d1824961",
@@ -32,16 +36,12 @@ self.__precacheManifest = [
     "url": "/nhl-clickygame/static/media/carolina.1dd1dbb6.jpg"
   },
   {
-    "revision": "44f8a78e021c43226e6bf9b4b40efb22",
-    "url": "/nhl-clickygame/static/media/colorado.44f8a78e.jpg"
+    "revision": "fcd410d007182397e03c",
+    "url": "/nhl-clickygame/static/js/main.4a28306b.chunk.js"
   },
   {
-    "revision": "ac7e02951453b6795c01",
-    "url": "/nhl-clickygame/static/js/main.101c9ea7.chunk.js"
-  },
-  {
-    "revision": "7d8a5c20f117a684b7d2f788b4b8a918",
-    "url": "/nhl-clickygame/static/media/nhlHeader.7d8a5c20.jpg"
+    "revision": "e1eb1addfad37848ade56a3d06384833",
+    "url": "/nhl-clickygame/static/media/lasvegas.e1eb1add.jpg"
   },
   {
     "revision": "00cc4169be55c92c4396ce7365c5e577",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/nhl-clickygame/static/media/winn.828feb86.jpg"
   },
   {
-    "revision": "b5a9435993df4b34b17467a2b1b20c67",
+    "revision": "972b7c66ddfecf1179d371ab8c6d04ef",
     "url": "/nhl-clickygame/index.html"
   }
 ];

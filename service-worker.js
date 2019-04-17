@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nhl-clickygame/precache-manifest.accb276c085bbbf545545d8eb938ca95.js"
+  "/nhl-clickygame/precache-manifest.9179b8f9ab8c22617844ea82680d1359.js"
 );
 
 workbox.clientsClaim();
