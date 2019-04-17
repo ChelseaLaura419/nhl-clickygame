@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Boston Bruins",
+      "image": "boston.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Calgary Flames",
+      "image": "calgary.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Washington Captials",
+      "image": "captials.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Carolina Hurricanes",
+      "image": "carolina.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Colorado Avalanche",
+      "image": "colorado.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Las VEgas Golden Knights",
+      "image": "lasvegas.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pittsburgh Penguins",
+      "image": "pitts.jpg"
+    },
+    {
+      "id": 8,
+      "name": "San Jose Sharks",
+      "image": "sanjose.jpg"
+    },
+    {
+      "id": 9,
+      "name": "St Louis Blues",
+      "image": "stlouis.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Tampa Bay Lightning",
+      "image": "tampa.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Toronto Maple Leafs",
+      "image": "toronto.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Winnipeg Jets",
+      "image": "winn.jpg"
+    }
+  ]
+  
